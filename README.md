@@ -7,3 +7,5 @@ This is a simple task management application built using React and Tailwind CSS.
 # Task List: Displays all tasks in a list with different background colors based on their status.
 # Mark as Completed: Users can mark tasks as completed, which updates the task's status.
 # Responsive Design: The form and task list are responsive, adapting to different screen sizes.
+
+![alt text](image.png)
